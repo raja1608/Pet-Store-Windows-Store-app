@@ -1,0 +1,88 @@
+C:\Users\Student\Documents\vp2_work\Activities\FriendsWithPaws\FriendsWithPaws\bin\Debug\FriendsWithPaws.exe
+C:\Users\Student\Documents\vp2_work\Activities\FriendsWithPaws\FriendsWithPaws\bin\Debug\FriendsWithPaws.pdb
+C:\Users\Student\Documents\vp2_work\Activities\FriendsWithPaws\FriendsWithPaws\bin\Debug\resources.pri
+C:\Users\Student\Documents\vp2_work\Activities\FriendsWithPaws\FriendsWithPaws\bin\Debug\AppxManifest.xml
+C:\Users\Student\Documents\vp2_work\Activities\FriendsWithPaws\FriendsWithPaws\bin\Debug\FriendsWithPaws.build.appxrecipe
+C:\Users\Student\Documents\vp2_work\Activities\FriendsWithPaws\FriendsWithPaws\obj\Debug\App.g.i.cs
+C:\Users\Student\Documents\vp2_work\Activities\FriendsWithPaws\FriendsWithPaws\obj\Debug\App.g.cs
+C:\Users\Student\Documents\vp2_work\Activities\FriendsWithPaws\FriendsWithPaws\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\Student\Documents\vp2_work\Activities\FriendsWithPaws\FriendsWithPaws\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\Student\Documents\vp2_work\Activities\FriendsWithPaws\FriendsWithPaws\obj\Debug\GroupedItemsPage.g.i.cs
+C:\Users\Student\Documents\vp2_work\Activities\FriendsWithPaws\FriendsWithPaws\obj\Debug\GroupedItemsPage.g.cs
+C:\Users\Student\Documents\vp2_work\Activities\FriendsWithPaws\FriendsWithPaws\obj\Debug\GroupDetailPage.g.i.cs
+C:\Users\Student\Documents\vp2_work\Activities\FriendsWithPaws\FriendsWithPaws\obj\Debug\GroupDetailPage.g.cs
+C:\Users\Student\Documents\vp2_work\Activities\FriendsWithPaws\FriendsWithPaws\obj\Debug\ItemDetailPage.g.i.cs
+C:\Users\Student\Documents\vp2_work\Activities\FriendsWithPaws\FriendsWithPaws\obj\Debug\ItemDetailPage.g.cs
+C:\Users\Student\Documents\vp2_work\Activities\FriendsWithPaws\FriendsWithPaws\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Student\Documents\vp2_work\Activities\FriendsWithPaws\FriendsWithPaws\obj\Debug\App.xaml
+C:\Users\Student\Documents\vp2_work\Activities\FriendsWithPaws\FriendsWithPaws\obj\Debug\Common\StandardStyles.xaml
+C:\Users\Student\Documents\vp2_work\Activities\FriendsWithPaws\FriendsWithPaws\obj\Debug\GroupedItemsPage.xaml
+C:\Users\Student\Documents\vp2_work\Activities\FriendsWithPaws\FriendsWithPaws\obj\Debug\GroupDetailPage.xaml
+C:\Users\Student\Documents\vp2_work\Activities\FriendsWithPaws\FriendsWithPaws\obj\Debug\ItemDetailPage.xaml
+C:\Users\Student\Documents\vp2_work\Activities\FriendsWithPaws\FriendsWithPaws\obj\Debug\FriendsWithPaws.exe
+C:\Users\Student\Documents\vp2_work\Activities\FriendsWithPaws\FriendsWithPaws\obj\Debug\FriendsWithPaws.pdb
+C:\Users\Student\Documents\vp2_work\Activities\FriendsWithPaws\FriendsWithPaws\obj\Debug\priconfig.xml
+C:\Users\Student\Documents\vp2_work\Activities\FriendsWithPaws\FriendsWithPaws\obj\Debug\layout.resfiles
+C:\Users\Student\Documents\vp2_work\Activities\FriendsWithPaws\FriendsWithPaws\obj\Debug\resources.resfiles
+C:\Users\Student\Documents\vp2_work\Activities\FriendsWithPaws\FriendsWithPaws\obj\Debug\pri.resfiles
+C:\Users\Student\Documents\vp2_work\Activities\FriendsWithPaws\FriendsWithPaws\obj\Debug\LanguageQualifiers.txt
+C:\Users\Student\Documents\vp2_work\Activities\FriendsWithPaws\FriendsWithPaws\obj\Debug\ProjectArchitectures.txt
+C:\Users\Student\Documents\vp2_work\Activities\FriendsWithPaws\FriendsWithPaws\obj\Debug\priconfig.xml.intermediate
+C:\Users\Student\Documents\vp2_work\Activities\FriendsWithPaws\FriendsWithPaws\obj\Debug\layout.resfiles.intermediate
+C:\Users\Student\Documents\vp2_work\Activities\FriendsWithPaws\FriendsWithPaws\obj\Debug\resources.resfiles.intermediate
+C:\Users\Student\Documents\vp2_work\Activities\FriendsWithPaws\FriendsWithPaws\obj\Debug\pri.resfiles.intermediate
+C:\Users\Student\Documents\vp2_work\Activities\FriendsWithPaws\FriendsWithPaws\obj\Debug\SearchResultsPage.g.i.cs
+C:\Users\Student\Documents\vp2_work\Activities\FriendsWithPaws\FriendsWithPaws\obj\Debug\SearchResultsPage.g.cs
+C:\Users\Student\Documents\vp2_work\Activities\FriendsWithPaws\FriendsWithPaws\obj\Debug\SearchResultsPage.xaml
+E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\bin\Debug\FriendsWithPaws.exe
+E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\bin\Debug\FriendsWithPaws.pdb
+E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\bin\Debug\resources.pri
+E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\bin\Debug\AppxManifest.xml
+E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\bin\Debug\FriendsWithPaws.build.appxrecipe
+E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\obj\Debug\App.g.i.cs
+E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\obj\Debug\App.g.cs
+E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\obj\Debug\Common\StandardStyles.g.i.cs
+E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\obj\Debug\Common\StandardStyles.g.cs
+E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\obj\Debug\GroupedItemsPage.g.i.cs
+E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\obj\Debug\GroupedItemsPage.g.cs
+E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\obj\Debug\GroupDetailPage.g.i.cs
+E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\obj\Debug\GroupDetailPage.g.cs
+E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\obj\Debug\ItemDetailPage.g.i.cs
+E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\obj\Debug\ItemDetailPage.g.cs
+E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\obj\Debug\SearchResultsPage.g.i.cs
+E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\obj\Debug\SearchResultsPage.g.cs
+E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\obj\Debug\XamlTypeInfo.g.cs
+E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\obj\Debug\App.xaml
+E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\obj\Debug\Common\StandardStyles.xaml
+E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\obj\Debug\GroupedItemsPage.xaml
+E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\obj\Debug\GroupDetailPage.xaml
+E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\obj\Debug\ItemDetailPage.xaml
+E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\obj\Debug\SearchResultsPage.xaml
+E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\obj\Debug\FriendsWithPaws.exe
+E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\obj\Debug\FriendsWithPaws.pdb
+E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\obj\Debug\priconfig.xml
+E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\obj\Debug\priconfig.xml.intermediate
+E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\obj\Debug\layout.resfiles
+E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\obj\Debug\layout.resfiles.intermediate
+E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\obj\Debug\resources.resfiles
+E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\obj\Debug\resources.resfiles.intermediate
+E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\obj\Debug\pri.resfiles
+E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\obj\Debug\pri.resfiles.intermediate
+E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\obj\Debug\qualifiers.txt
+E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\obj\Debug\qualifiers.txt.intermediate
+E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\obj\Debug\ProjectArchitectures.txt
+E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\bin\Debug\App.xbf
+E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\bin\Debug\Common\StandardStyles.xbf
+E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\bin\Debug\GroupedItemsPage.xbf
+E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\bin\Debug\GroupDetailPage.xbf
+E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\bin\Debug\ItemDetailPage.xbf
+E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\bin\Debug\SearchResultsPage.xbf
+E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\bin\Debug\FriendsWithPaws.xr.xml
+E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\obj\Debug\App.xbf
+E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\obj\Debug\Common\StandardStyles.xbf
+E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\obj\Debug\GroupedItemsPage.xbf
+E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\obj\Debug\GroupDetailPage.xbf
+E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\obj\Debug\ItemDetailPage.xbf
+E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\obj\Debug\SearchResultsPage.xbf
+E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\obj\Debug\XamlSaveStateFile.xml

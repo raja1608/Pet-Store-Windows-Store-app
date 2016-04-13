@@ -1,0 +1,329 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>RAJA</Machine>
+    <WindowsUser>Raja</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>7b605777-47d8-49d7-8f7d-fb76aaa1ab4a</PackageIdentityName>
+    <IntermediateOutputPath>E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>2C200260917AD6F8234425441204CCA8D8FE99FF09402B2576932EE04B69C06E</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>7b605777-47d8-49d7-8f7d-fb76aaa1ab4a_1.1.0.0_neutral__k96968rvhjvje</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>7b605777-47d8-49d7-8f7d-fb76aaa1ab4a_k96968rvhjvje!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>7b605777-47d8-49d7-8f7d-fb76aaa1ab4a</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Student</RegisteredPackagePublisher>
+    <RegisteredVersion>1.1.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-12-13T23:55:46.221</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\bin\Debug\FriendsWithPaws.exe">
+      <PackagePath>FriendsWithPaws.exe</PackagePath>
+      <Modified>2016-04-13T22:45:35.174</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-03T00:03:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-03T00:03:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\Assets\splashScreen.PNG">
+      <PackagePath>Assets\splashScreen.PNG</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-03T00:08:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-03T00:03:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+      <Modified>2011-12-13T05:08:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+      <Modified>2011-12-13T05:08:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+      <Modified>2011-12-13T05:08:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\Assets\wideLogo.PNG">
+      <PackagePath>Assets\wideLogo.PNG</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-03T00:03:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\Images\group_detail.PNG">
+      <PackagePath>Images\group_detail.PNG</PackagePath>
+      <Modified>2015-07-03T00:12:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\Data\Dogs.txt">
+      <PackagePath>Data\Dogs.txt</PackagePath>
+      <Modified>2015-07-03T00:13:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\Images\Large Breeds\dalmatian.jpg">
+      <PackagePath>Images\Large Breeds\dalmatian.jpg</PackagePath>
+      <Modified>2015-07-03T00:11:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\Images\Large Breeds\dalmatian_1.jpg">
+      <PackagePath>Images\Large Breeds\dalmatian_1.jpg</PackagePath>
+      <Modified>2015-07-03T00:11:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\Images\Large Breeds\dalmatian_2.jpg">
+      <PackagePath>Images\Large Breeds\dalmatian_2.jpg</PackagePath>
+      <Modified>2015-07-03T00:11:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\Images\Large Breeds\dobermanPinscher.jpg">
+      <PackagePath>Images\Large Breeds\dobermanPinscher.jpg</PackagePath>
+      <Modified>2015-07-03T00:11:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\Images\Large Breeds\dobermanPinscher_1.jpg">
+      <PackagePath>Images\Large Breeds\dobermanPinscher_1.jpg</PackagePath>
+      <Modified>2015-07-03T00:11:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\Images\Large Breeds\dobermanPinscher_2.jpg">
+      <PackagePath>Images\Large Breeds\dobermanPinscher_2.jpg</PackagePath>
+      <Modified>2015-07-03T00:11:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\Images\Large Breeds\germanShepherd.jpg">
+      <PackagePath>Images\Large Breeds\germanShepherd.jpg</PackagePath>
+      <Modified>2015-07-03T00:11:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\Images\Large Breeds\germanShepherd_1.jpg">
+      <PackagePath>Images\Large Breeds\germanShepherd_1.jpg</PackagePath>
+      <Modified>2015-07-03T00:11:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\Images\Large Breeds\germanShepherd_2.jpg">
+      <PackagePath>Images\Large Breeds\germanShepherd_2.jpg</PackagePath>
+      <Modified>2015-07-03T00:11:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\Images\Large Breeds\goldenRetriever.jpg">
+      <PackagePath>Images\Large Breeds\goldenRetriever.jpg</PackagePath>
+      <Modified>2015-07-03T00:11:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\Images\Large Breeds\goldenRetriever_1.jpg">
+      <PackagePath>Images\Large Breeds\goldenRetriever_1.jpg</PackagePath>
+      <Modified>2015-07-03T00:11:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\Images\Large Breeds\goldenRetriever_2.jpg">
+      <PackagePath>Images\Large Breeds\goldenRetriever_2.jpg</PackagePath>
+      <Modified>2015-07-03T00:11:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\Images\Large Breeds\greatDane.jpg">
+      <PackagePath>Images\Large Breeds\greatDane.jpg</PackagePath>
+      <Modified>2015-07-03T00:11:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\Images\Large Breeds\greatDane_1.jpg">
+      <PackagePath>Images\Large Breeds\greatDane_1.jpg</PackagePath>
+      <Modified>2015-07-03T00:11:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\Images\Large Breeds\greatDane_2.jpg">
+      <PackagePath>Images\Large Breeds\greatDane_2.jpg</PackagePath>
+      <Modified>2015-07-03T00:11:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\Images\Large Breeds\irishSetter.jpg">
+      <PackagePath>Images\Large Breeds\irishSetter.jpg</PackagePath>
+      <Modified>2015-07-03T00:11:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\Images\Large Breeds\irishSetter_1.jpg">
+      <PackagePath>Images\Large Breeds\irishSetter_1.jpg</PackagePath>
+      <Modified>2015-07-03T00:11:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\Images\Large Breeds\irishSetter_2.jpg">
+      <PackagePath>Images\Large Breeds\irishSetter_2.jpg</PackagePath>
+      <Modified>2015-07-03T00:11:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\Images\Medium Breeds\australianShepherd.jpg">
+      <PackagePath>Images\Medium Breeds\australianShepherd.jpg</PackagePath>
+      <Modified>2015-07-03T00:11:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\Images\Medium Breeds\australianShepherd_1.jpg">
+      <PackagePath>Images\Medium Breeds\australianShepherd_1.jpg</PackagePath>
+      <Modified>2015-07-03T00:11:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\Images\Medium Breeds\australianShepherd_2.jpg">
+      <PackagePath>Images\Medium Breeds\australianShepherd_2.jpg</PackagePath>
+      <Modified>2015-07-03T00:11:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\Images\Medium Breeds\bassetHound.jpg">
+      <PackagePath>Images\Medium Breeds\bassetHound.jpg</PackagePath>
+      <Modified>2015-07-03T00:11:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\Images\Medium Breeds\bassetHound_1.jpg">
+      <PackagePath>Images\Medium Breeds\bassetHound_1.jpg</PackagePath>
+      <Modified>2015-07-03T00:11:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\Images\Medium Breeds\bassetHound_2.jpg">
+      <PackagePath>Images\Medium Breeds\bassetHound_2.jpg</PackagePath>
+      <Modified>2015-07-03T00:11:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\Images\Medium Breeds\borderCollie.jpg">
+      <PackagePath>Images\Medium Breeds\borderCollie.jpg</PackagePath>
+      <Modified>2015-07-03T00:11:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\Images\Medium Breeds\borderCollie_1.jpg">
+      <PackagePath>Images\Medium Breeds\borderCollie_1.jpg</PackagePath>
+      <Modified>2015-07-03T00:11:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\Images\Medium Breeds\borderCollie_2.jpg">
+      <PackagePath>Images\Medium Breeds\borderCollie_2.jpg</PackagePath>
+      <Modified>2015-07-03T00:11:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\Images\Medium Breeds\bulldog.jpg">
+      <PackagePath>Images\Medium Breeds\bulldog.jpg</PackagePath>
+      <Modified>2015-07-03T00:11:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\Images\Medium Breeds\bulldog_1.jpg">
+      <PackagePath>Images\Medium Breeds\bulldog_1.jpg</PackagePath>
+      <Modified>2015-07-03T00:11:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\Images\Medium Breeds\bulldog_2.jpg">
+      <PackagePath>Images\Medium Breeds\bulldog_2.jpg</PackagePath>
+      <Modified>2015-07-03T00:11:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\Images\Medium Breeds\sharPei.jpg">
+      <PackagePath>Images\Medium Breeds\sharPei.jpg</PackagePath>
+      <Modified>2015-07-03T00:11:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\Images\Medium Breeds\sharPei_1.jpg">
+      <PackagePath>Images\Medium Breeds\sharPei_1.jpg</PackagePath>
+      <Modified>2015-07-03T00:11:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\Images\Medium Breeds\sharPei_2.jpg">
+      <PackagePath>Images\Medium Breeds\sharPei_2.jpg</PackagePath>
+      <Modified>2015-07-03T00:11:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\Images\Medium Breeds\springerSpaniel.jpg">
+      <PackagePath>Images\Medium Breeds\springerSpaniel.jpg</PackagePath>
+      <Modified>2015-07-03T00:11:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\Images\Medium Breeds\springerSpaniel_1.jpg">
+      <PackagePath>Images\Medium Breeds\springerSpaniel_1.jpg</PackagePath>
+      <Modified>2015-07-03T00:11:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\Images\Medium Breeds\springerSpaniel_2.jpg">
+      <PackagePath>Images\Medium Breeds\springerSpaniel_2.jpg</PackagePath>
+      <Modified>2015-07-03T00:11:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\Images\Small Breeds\beagle.jpg">
+      <PackagePath>Images\Small Breeds\beagle.jpg</PackagePath>
+      <Modified>2015-07-03T00:11:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\Images\Small Breeds\beagle_1.jpg">
+      <PackagePath>Images\Small Breeds\beagle_1.jpg</PackagePath>
+      <Modified>2015-07-03T00:11:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\Images\Small Breeds\beagle_2.jpg">
+      <PackagePath>Images\Small Breeds\beagle_2.jpg</PackagePath>
+      <Modified>2015-07-03T00:11:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\Images\Small Breeds\dachshund.jpg">
+      <PackagePath>Images\Small Breeds\dachshund.jpg</PackagePath>
+      <Modified>2015-07-03T00:11:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\Images\Small Breeds\dachshund_1.jpg">
+      <PackagePath>Images\Small Breeds\dachshund_1.jpg</PackagePath>
+      <Modified>2015-07-03T00:11:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\Images\Small Breeds\dachshund_2.jpg">
+      <PackagePath>Images\Small Breeds\dachshund_2.jpg</PackagePath>
+      <Modified>2015-07-03T00:11:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\Images\Small Breeds\jackRussellTerrier.jpg">
+      <PackagePath>Images\Small Breeds\jackRussellTerrier.jpg</PackagePath>
+      <Modified>2015-07-03T00:11:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\Images\Small Breeds\jackRussellTerrier_1.jpg">
+      <PackagePath>Images\Small Breeds\jackRussellTerrier_1.jpg</PackagePath>
+      <Modified>2015-07-03T00:11:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\Images\Small Breeds\jackRussellTerrier_2.jpg">
+      <PackagePath>Images\Small Breeds\jackRussellTerrier_2.jpg</PackagePath>
+      <Modified>2015-07-03T00:11:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\Images\Small Breeds\pug.jpg">
+      <PackagePath>Images\Small Breeds\pug.jpg</PackagePath>
+      <Modified>2015-07-03T00:11:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\Images\Small Breeds\pug_1.jpg">
+      <PackagePath>Images\Small Breeds\pug_1.jpg</PackagePath>
+      <Modified>2015-07-03T00:11:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\Images\Small Breeds\pug_2.jpg">
+      <PackagePath>Images\Small Breeds\pug_2.jpg</PackagePath>
+      <Modified>2015-07-03T00:11:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\Images\Small Breeds\westHighlandWhiteTerrier.jpg">
+      <PackagePath>Images\Small Breeds\westHighlandWhiteTerrier.jpg</PackagePath>
+      <Modified>2015-07-03T00:11:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\Images\Small Breeds\westHighlandWhiteTerrier_1.jpg">
+      <PackagePath>Images\Small Breeds\westHighlandWhiteTerrier_1.jpg</PackagePath>
+      <Modified>2015-07-03T00:11:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\Images\Small Breeds\westHighlandWhiteTerrier_2.jpg">
+      <PackagePath>Images\Small Breeds\westHighlandWhiteTerrier_2.jpg</PackagePath>
+      <Modified>2015-07-03T00:11:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\Images\Small Breeds\yorkshireTerrier.jpg">
+      <PackagePath>Images\Small Breeds\yorkshireTerrier.jpg</PackagePath>
+      <Modified>2015-07-03T00:11:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\Images\Small Breeds\yorkshireTerrier_1.jpg">
+      <PackagePath>Images\Small Breeds\yorkshireTerrier_1.jpg</PackagePath>
+      <Modified>2015-07-03T00:11:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\Images\Small Breeds\yorkshireTerrier_2.jpg">
+      <PackagePath>Images\Small Breeds\yorkshireTerrier_2.jpg</PackagePath>
+      <Modified>2015-07-03T00:11:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\bin\Debug\FriendsWithPaws.xr.xml">
+      <PackagePath>FriendsWithPaws.xr.xml</PackagePath>
+      <Modified>2015-12-13T06:13:25.848</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-12-13T06:13:26.221</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\bin\Debug\Common\StandardStyles.xbf">
+      <PackagePath>Common\StandardStyles.xbf</PackagePath>
+      <Modified>2015-12-13T06:13:26.221</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\bin\Debug\GroupedItemsPage.xbf">
+      <PackagePath>GroupedItemsPage.xbf</PackagePath>
+      <Modified>2015-12-13T06:13:26.221</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\bin\Debug\GroupDetailPage.xbf">
+      <PackagePath>GroupDetailPage.xbf</PackagePath>
+      <Modified>2015-12-13T06:13:26.221</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\bin\Debug\ItemDetailPage.xbf">
+      <PackagePath>ItemDetailPage.xbf</PackagePath>
+      <Modified>2016-04-13T22:45:34.396</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\bin\Debug\SearchResultsPage.xbf">
+      <PackagePath>SearchResultsPage.xbf</PackagePath>
+      <Modified>2015-12-13T06:13:26.222</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CPP - DSD\70-484\FriendsWithPaws\FriendsWithPaws\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-12-13T23:55:45.596</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
